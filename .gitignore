@@ -1,0 +1,22 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folders
+venv/
+env/
+
+# Data files (يمكنك رفع نسخة صغيرة لاحقاً)
+data/train.csv
+data/test.csv
+
+# Logs and outputs
+*.log
+*.txt
+*.md
+
+# System files
+.DS_Store
+Thumbs.db
